@@ -1,0 +1,10 @@
+c:\users\girom\documents\visual studio 2017\Projects\practica carrera liebre y tortuga\practica carrera liebre y tortuga\bin\Debug\practica carrera liebre y tortuga.exe.config
+c:\users\girom\documents\visual studio 2017\Projects\practica carrera liebre y tortuga\practica carrera liebre y tortuga\bin\Debug\practica carrera liebre y tortuga.exe
+c:\users\girom\documents\visual studio 2017\Projects\practica carrera liebre y tortuga\practica carrera liebre y tortuga\bin\Debug\practica carrera liebre y tortuga.pdb
+c:\users\girom\documents\visual studio 2017\Projects\practica carrera liebre y tortuga\practica carrera liebre y tortuga\obj\Debug\practica carrera liebre y tortuga.csprojResolveAssemblyReference.cache
+c:\users\girom\documents\visual studio 2017\Projects\practica carrera liebre y tortuga\practica carrera liebre y tortuga\obj\Debug\practica_carrera_liebre_y_tortuga.Form1.resources
+c:\users\girom\documents\visual studio 2017\Projects\practica carrera liebre y tortuga\practica carrera liebre y tortuga\obj\Debug\practica_carrera_liebre_y_tortuga.Properties.Resources.resources
+c:\users\girom\documents\visual studio 2017\Projects\practica carrera liebre y tortuga\practica carrera liebre y tortuga\obj\Debug\practica carrera liebre y tortuga.csproj.GenerateResource.Cache
+c:\users\girom\documents\visual studio 2017\Projects\practica carrera liebre y tortuga\practica carrera liebre y tortuga\obj\Debug\practica carrera liebre y tortuga.csproj.CoreCompileInputs.cache
+c:\users\girom\documents\visual studio 2017\Projects\practica carrera liebre y tortuga\practica carrera liebre y tortuga\obj\Debug\practica carrera liebre y tortuga.exe
+c:\users\girom\documents\visual studio 2017\Projects\practica carrera liebre y tortuga\practica carrera liebre y tortuga\obj\Debug\practica carrera liebre y tortuga.pdb
